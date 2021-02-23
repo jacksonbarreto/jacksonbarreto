@@ -1,14 +1,10 @@
-<img width="auto" src="https://avatars.githubusercontent.com/u/13190121?s=60&v=4g">
+<img width="auto" src="https://avatars.githubusercontent.com/u/13190121?s=80&v=4g">
 
-<!--
-**jacksonbarreto/jacksonbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Jackson Barreto
 
 ## Olá pessoal 👋
-
 Sou apaixonado por conhecimento e fascinado por resolver problemas.
-
 :rocket:  &nbsp; No momento sou aluno de Engenharia Informática :computer:
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Java, C e Node.Js
@@ -19,4 +15,4 @@ Sou apaixonado por conhecimento e fascinado por resolver problemas.
 [![Gmail Badge](https://img.shields.io/badge/-jackson.barreto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackson.barreto@gmail.com)](mailto:jackson.barreto@gmail.com)
 
 
--->
+
