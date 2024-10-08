@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por conhecimento e fascinado por resolver problemas.
-:rocket:  &nbsp;
+  &nbsp;
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end.
 <br/> :computer: &nbsp; Minha stack: Golang, C, Python & Typescript
